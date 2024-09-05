@@ -1,8 +1,11 @@
 # Prototype-based Explanation for Embedding-based Link Prediction in Knowledge Graphs
 
 before running the codes, here are the logic of the output:
+
 run **"./src/trainer.py"** -> see output in ./exp/{data_name}/TranE/
+
 run **"./src/tester.py"** -> see output in ./exp/{data_name}/test/score_{data_name}.json
+
 run **"./src/explainer.py"** / "example_explanations.py" / "global_explanation.py" -> see output in ./exp/{data_name}/explanations/
 
 
